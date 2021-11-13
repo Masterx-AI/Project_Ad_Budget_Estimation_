@@ -1,5 +1,5 @@
 # Project_Ad_Budget_Estimation 📰
-<p align="center"><img src="https://user-images.githubusercontent.com/54996245/141647621-ca6115e0-6a19-4c89-b3fb-c6add24e5f90.jpg" style="width: 500px;"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54996245/141647621-ca6115e0-6a19-4c89-b3fb-c6add24e5f90.jpg" style="width: 1000px;"/></p>
 
 ### Description:
 The advertising dataset captures the sales revenue generated with respect to advertisement costs across multiple channels like radio, tv, and newspapers. It is required to understand the impact of ad budgets on the overall sales.
