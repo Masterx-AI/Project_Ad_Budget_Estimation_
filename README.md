@@ -1,4 +1,4 @@
-# AI/ML Project: Ad-Budget Estimation ★
+# AI/ML Project: Ad-Budget Estimation 📰
 <p align="center"><img src="https://user-images.githubusercontent.com/54996245/141647621-ca6115e0-6a19-4c89-b3fb-c6add24e5f90.jpg" style="width: 1000px;"/></p>
 
 ### Description:
